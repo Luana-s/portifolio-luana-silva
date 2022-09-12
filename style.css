@@ -45,7 +45,7 @@ li{
 .principal {
     height: 100vh;
     display: flex;
-    background-color: #eaeaea;
+    background-color: #999797;
     
 }
 .subcontainer-principal{
@@ -79,7 +79,7 @@ li{
 }
 
 .profissao{
-    color:#a39baa;
+    color:#661e4b;
     line-height: 32px;
 
 }
@@ -107,13 +107,13 @@ li{
 }
 .lista-local{
     font-size: 18px;
-    color:  rgb(14, 12, 141);;
+    color:  rgb(7, 6, 48);;
 }
 .lista-descricao{
     font-size: 18px;
     margin-top: 5px;
     line-height: 20px;
-    color: #828282;
+    color: #727171;
     font-weight: 300;
 }
 .lista-item ul li{
@@ -121,7 +121,7 @@ li{
 
 }
 .wrapper-portifolio{
-    background-color: #eaeaea;
+    background-color: #e9e6e9;
     display: flex;
     flex-direction: column;
     
@@ -166,8 +166,4 @@ li{
     margin-bottom: 16px;
     display: flex;
     align-items: center;
-}
-
-.container1{
-    background-color: #d3caca;
 }
